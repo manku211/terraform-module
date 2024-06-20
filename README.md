@@ -1,0 +1,1 @@
+ For creation of EC2 machine and loadbalancer  i have use default vpc and default security and subnet ids in my free tier account id.
